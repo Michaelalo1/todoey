@@ -13,6 +13,9 @@ class _TasksScreenState extends State<TasksScreen> {
     Task(name: 'Buy Milk'),
     Task(name: 'Buy Eggs'),
     Task(name: 'Buy Bread'),
+    Task(name: 'Buy Oil'),
+    Task(name: 'Buy Pan'),
+    Task(name: 'Fry Eggs'),
   ];
 
   @override
